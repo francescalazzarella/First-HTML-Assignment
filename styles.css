@@ -1,14 +1,41 @@
-body {
-    color: blanchedalmond;
-    background-color: olivedrab;
-    font-family: Arial, Helvetica, sans-serif;
-    margin: 8px;
-    margin: center;
-    p1
- }  
-
-header {
-    font-size: 36px;
+body{
+    margin-top: 8px;
+    margin-bottom: 8px;
+    margin-right: 8px;
+    margin-left: 8px;
+    background-color: rgb(223, 217, 217);
+}
+img{
+    margin-left: 150px;
+    max-height: 250px;
+    max-width: fit-content;
+}
+header{
+    font-size: 24px;
     font-family: 'Courier New', Courier, monospace;
-    font
- }
+    font-weight:bold;
+    margin-left: 50px;
+}
+main{
+    font-family: Arial, Helvetica, sans-serif;
+}
+mainheading{
+    color: crimson;
+    background-color: slategrey;
+    font-size: 30px;
+    font-family: 'Courier New', Courier, monospace;
+    border-color: black;
+    text-align: center;
+}
+p{
+    font-family: Arial, Helvetica, sans-serif;
+    margin-left: 100px;
+    margin-right: 100px;
+}
+footer{
+    text-align: center;
+    font-size: 12px;
+}
+.funparagraph {
+    color:green;
+}
