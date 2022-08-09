@@ -1,8 +1,14 @@
 body {
     color: blanchedalmond;
     background-color: olivedrab;
- }
-header{
+    font-family: Arial, Helvetica, sans-serif;
+    margin: 8px;
+    margin: center;
+    p1
+ }  
+
+header {
     font-size: 36px;
-    font-family:'Courier New', Courier, monospace;
+    font-family: 'Courier New', Courier, monospace;
+    font
  }
